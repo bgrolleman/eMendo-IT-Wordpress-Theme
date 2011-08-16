@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-				<div id="content">
+				<div id="featured">
 					<?php if(have_posts()) : while (have_posts()) : the_post(); ?>
 						<div class="block">
 							<div class="block_inside">
@@ -24,7 +24,6 @@
 						</div>
 					<?php endif; ?>
 				</div>
-				<?php get_sidebar(); ?>
 			</div>
 		</div>
 <?php get_footer(); ?>

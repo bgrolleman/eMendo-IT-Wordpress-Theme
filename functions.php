@@ -17,4 +17,8 @@
 		$menu = get_term_by('id',$menu_locations[$id],'nav_menu',ARRAY_A);
 		return $menu['name'];
 	}
+
+	remove_filter('template_redirect','redirect_canonical');
+
+
 ?>
