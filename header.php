@@ -13,9 +13,10 @@
 	</head>
 	<body>
 		<div id="main">
-			<div class="container">
+			<div id="container">
 				<div id="header">
-					<div id="logo"><h1>eMendo-IT</h1></div>
+					<div id="logo">&nbsp;</div>
+					<div id="menu">
 						<?php wp_nav_menu (
 							array(
 								'menu' => 'primary_nav',
@@ -25,4 +26,5 @@
 							)
 						)
 						?>
-				</div>
+					</div> <!-- #menu -->
+				</div> <!-- #header -->
