@@ -1,0 +1,113 @@
+%!Adobe-FontList 1.13
+%Locale:0x413
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri
+FamilyName:Calibri
+StyleName:Regular
+FullName:Calibri
+MenuName:Calibri
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\E dsign\07812 - E-mendo IT - Logo en Huisstijl\Emendo - Website map\Document fonts\CALIBRI.TTF
+DataFormat:sfntData
+FileLength:811052
+FileModTime:1244666594
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri-Bold
+FamilyName:Calibri
+StyleName:Bold
+FullName:Calibri Bold
+MenuName:Calibri
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\E dsign\07812 - E-mendo IT - Logo en Huisstijl\Emendo - Website map\Document fonts\CALIBRIB.TTF
+DataFormat:sfntData
+FileLength:848720
+FileModTime:1244666594
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri-Italic
+FamilyName:Calibri
+StyleName:Italic
+FullName:Calibri Italic
+MenuName:Calibri
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\E dsign\07812 - E-mendo IT - Logo en Huisstijl\Emendo - Website map\Document fonts\CALIBRII.TTF
+DataFormat:sfntData
+FileLength:853348
+FileModTime:1244666594
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:DearJoefour
+FamilyName:dearJoe four
+StyleName:Regular
+FullName:dearJoe four
+MenuName:dearJoe four
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\E dsign\07812 - E-mendo IT - Logo en Huisstijl\Emendo - Website map\Document fonts\dearJoe 4.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:99032
+FileModTime:1244452602
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Syntax-Roman
+FamilyName:Syntax
+StyleName:Roman
+FullName:Syntax
+MenuName:Syntax
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\E dsign\07812 - E-mendo IT - Logo en Huisstijl\Emendo - Website map\Document fonts\SyntaR91.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28247
+FileModTime:1121366604
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Syntax-Roman
+NumMMAxes:0
+OutlineFileName:C:\E dsign\07812 - E-mendo IT - Logo en Huisstijl\Emendo - Website map\Document fonts\SyntaR91.pfm
+FileLength:1140
+FileModTime:1121366604
+%EndFont
+
